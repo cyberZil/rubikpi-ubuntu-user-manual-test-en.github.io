@@ -1,7 +1,7 @@
 {
   "label": "Peripherals and Interfaces",
-  "position": 10  ,
-  "collapsed": true,
+  "position": 4  ,
+  "collapsed": false,
   "link": {
     "type": "doc",
     "id": "index"
