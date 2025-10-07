@@ -2,6 +2,7 @@
 
 This section outlines a modular, hands-on approach to AI development using Qualcomm®-supported tools, runtimes, and frameworks.  
 Whether you're training models, deploying pre-trained networks, or building multimodal AI workflows, this guide offers a modular, hands-on approach.  
+
 The document covers:  
 * Model creation with **Edge Impulse** and **Qualcomm® AI Hub**  
 * Inference using **LiteRT, TensorFlow Lite, and ONNX Runtime**  
